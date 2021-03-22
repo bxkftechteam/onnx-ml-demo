@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+models/*
+data/*
+cpp/infer_basic
+cpp/libviterbi.*
